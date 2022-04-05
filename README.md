@@ -33,10 +33,6 @@ Important:
 - Display message when there is not product select for product list
 - Check with enable/disble and catalog visibility
 
-https://magento-754735-2547645.cloudwaysapps.com/
-https://magento-754735-2547645.cloudwaysapps.com/admin/
-admin/5zGagvx9DED8uV
-
 
 Stores > Configuration > IoVista ProductList > 
     Set No. Of products
